@@ -1,0 +1,55 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+ENV/
+
+# Distribución / empaquetado
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Logs
+*.log
+
+# Variables de entorno
+.env
+.env.*
+
+# PyCharm
+.idea/
+
+# Archivos de proyecto de JetBrains
+*.iml
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Archivos de cobertura y testing
+.coverage
+.pytest_cache/
+htmlcov/
+
+# Mypy
+.mypy_cache/
+
+# Ruff
+.ruff_cache/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.tmp
+*.swp
+
+# SQLite local
+*.sqlite3
+*.db

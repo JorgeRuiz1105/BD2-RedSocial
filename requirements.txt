@@ -1,0 +1,7 @@
+psycopg2-binary
+pymongo
+cassandra-driver
+redis
+pandas
+openpyxl
+PyQt6
